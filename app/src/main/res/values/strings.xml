@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Imposto Renda</string>
+    <string name="cont">Contribuinte</string>
+    <string name="base">Base de Cálculo</string>
+    <string name="calc">Calcular</string>
+    <string name="ir">IR:</string>
+</resources>
